@@ -4,12 +4,13 @@
 This repository contains the implementation of a custom convolutional neural network (CNN) designed to classify MRI scans for brain tumor detection. The project, conducted in collaboration with the Simulation Engineering Lab, focuses on developing an accurate model using state-of-the-art deep learning techniques.
 
 ## Project Highlights:
-Objective: Classify MRI scans to detect brain tumors with high accuracy.
-Achieved: 75% accuracy on the validation dataset.
-Technologies & Tools Used:
-Programming Language: Python
-Framework: TensorFlow
-Libraries: Pandas, NumPy, Matplotlib
+* Objective: Classify MRI scans to detect brain tumors with high accuracy.
+* Achieved: 75% accuracy on the validation dataset.
+
+## Technologies & Tools Used:
+* Programming Language: Python
+* Framework: TensorFlow
+* Libraries: Pandas, NumPy, Matplotlib
 
 ## Key Features:
 #### Data Preprocessing:
