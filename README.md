@@ -1,7 +1,7 @@
 # Custom Convolutional Neural Network for MRI Classification
 
 ## Overview
-This repository contains the implementation of a custom convolutional neural network (CNN) designed to classify MRI scans for brain tumor detection. The project, conducted in collaboration with the Simulation Engineering Lab, focuses on developing an accurate model using state-of-the-art deep learning techniques.
+This repository contains the implementation of a custom convolutional neural network (CNN) designed to classify MRI scans for brain tumor detection (brain.ipynb). The project, conducted in collaboration with the Simulation Engineering Lab, focuses on developing an accurate model using deep learning techniques.
 
 ## Project Highlights:
 * Objective: Classify MRI scans to detect brain tumors with high accuracy.
